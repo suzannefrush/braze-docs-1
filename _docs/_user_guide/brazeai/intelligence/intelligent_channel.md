@@ -14,7 +14,7 @@ In this case, best means the channel that has the highest likelihood of engageme
 
 ![The Intelligent Channel filter with a dropdown for the different channels that can be selected.][1]{: style="float:right;max-width:40%;margin-left:10px;margin-top:10px;border:0"}
 
-The Intelligent Channel computes the engagement rate for each user for each of the three channels by taking the ratio of message interactions (opens or clicks) to the number of messages received over the last six months of activity. The available channels are ranked according to their respective engagement ratios, and the channel with the highest ratio is the "Most Engaged" for that user. 
+The Intelligent Channel computes the engagement rate for each user for each of the channels by taking the ratio of message interactions (opens or clicks) to the number of messages received over the last six months of activity. The available channels are ranked according to their respective engagement ratios, and the channel with the highest ratio is the "Most Engaged" for that user. 
 
 Every time a message is sent to a user, or a user interacts with a message, the engagement ratio is recalculated within seconds. A user can only be counted as interacting with a message once (for example, an open and click on the same email will cause that message to be marked as having been engaged with only once, not twice). 
 
